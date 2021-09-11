@@ -18,8 +18,8 @@ public class StudentService {
    static List<Student> listStudent;
     static{
         listStudent = new ArrayList<>();
-        listStudent.add(new Student("Souvik",21));
-        listStudent.add(new Student("Rhea",23));
+        listStudent.add(new Student("Rajiv",21));
+        listStudent.add(new Student("Akash",23));
         listStudent.add(new Student("Ajay",44));
         listStudent.add(new Student("Rahul",33));
     }
