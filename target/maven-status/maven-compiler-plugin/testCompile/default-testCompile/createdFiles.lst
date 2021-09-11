@@ -1,0 +1,5 @@
+com/souvik/$HelloWorldTest$Definition$Reference.class
+com/souvik/$HelloWorldTest$Definition$Exec.class
+com/souvik/HelloWorldTest.class
+META-INF/services/io.micronaut.inject.BeanDefinitionReference
+com/souvik/$HelloWorldTest$Definition.class

@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.souvik
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [app-name, http-client, java, java-application, junit, maven, netty-server, readme, shade, slf4j-simple, spring, spring-boot, spring-web, yaml]
